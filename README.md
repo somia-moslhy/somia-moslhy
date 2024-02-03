@@ -1,34 +1,20 @@
-### Hi there 👋
-# Professional Profile
+### Hi there 👋, Somia Moslhy
+#### I am undergraduated software engineer and flutter developer
+![I am undergraduated software engineer and flutter developer](http://i.imgur.com/c7GmAJf.png)
 
-Greetings! 👋 I am a dedicated Software Engineer and proficient Flutter Developer currently immersed in my third year of pursuing a degree in Computer Science. My expertise extends to solving complex problems, coupled with active participation in coding competitions to continually refine my problem-solving skills.
+I am a software engineer and a Flutter developer with a strong background in problem-solving. I enjoy participating in competitions and challenging myself to learn new skills. I am currently in the third year of my computer science degree program.
 
-## Core Competencies
+Skills: C#/C++/database/python/flutter
 
-- **Software Engineering:** Adept at crafting robust and scalable software solutions with a keen eye for detail.
-- **Flutter Development:** Proficient in Flutter, leveraging its capabilities to create engaging and cross-platform applications.
-- **Problem-Solving:** Equipped with a solid foundation in problem-solving, honed through continuous challenges and coding competitions.
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning flutter  
+- 📫 How to reach me: you can send me message in my social accounts 
+- ⚡ Fun fact: I love coffee so much that I drink it every morning, afternoon, and evening. I also have a collection of coffee mugs 
 
-## Academic Pursuits
 
-- Currently advancing my knowledge in computer science through academic pursuits, consistently maintaining a strong academic record.
-- Actively involved in coursework, gaining a comprehensive understanding of cutting-edge technologies and methodologies.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ somia-moslhy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/somia-afify/)  
 
-## Achievements and Competitions
+![GitHub stats](https://github-readme-stats.vercel.app/api?username= somia-moslhy&show_icons=true)  
 
-- Regular participant in coding competitions, showcasing a passion for algorithmic problem-solving and consistently achieving commendable results.
-- [Consider adding any specific noteworthy achievements or distinctions.]
 
-## Ongoing Endeavors
-
-- Engaged in ongoing projects, applying a systematic and innovative approach to software development.
-- Constantly exploring new technologies to stay abreast of industry trends and advancements.
-
-## Connect with Me
-
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]
-- Email: [Your Email Address]
-
-Feel free to explore my repositories for a deeper insight into my professional journey. I am open to collaboration and always eager to connect with like-minded individuals. Let's connect and create impactful solutions together! 🚀
 
