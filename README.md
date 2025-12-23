@@ -1,4 +1,4 @@
-### Hi there 👋, Somia Moslhy
+### Hi there 👋, Somia Afify
 #### I am an undergraduate software engineer, data science enthusiast, and Flutter developer
 ![I am an undergraduate software engineer and flutter developer](http://i.imgur.com/c7GmAJf.png)
 
