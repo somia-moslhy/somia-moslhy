@@ -1,5 +1,5 @@
 ### Hi there 👋, Somia Afify
-#### I am an undergraduate software engineer, data science enthusiast, and Flutter developer
+#### I am an undergraduate software engineer, data science enthusiast
 ![I am an undergraduate software engineer and flutter developer](http://i.imgur.com/c7GmAJf.png)
 
 I am a software engineer with a strong background in problem-solving, now expanding my expertise into data science. I enjoy participating in competitions and challenging myself to learn new skills. Currently, I am focusing on data science projects while continuing to develop applications with Flutter.
