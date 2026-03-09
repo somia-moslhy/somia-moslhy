@@ -4,9 +4,7 @@
 I am a Software Engineer with a strong background in problem-solving, now fully dedicating my expertise to **Data Science**. I enjoy participating in competitions and challenging myself to learn new skills. Currently, I am focusing on building end-to-end data science projects and uncovering actionable insights from complex data.
 
 <p align="center">
-  <a href="[رابط حسابك على لينكد إن هنا]" target="_blank">
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Data Science Animation" width="60%">
-  </a>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg0bzQ0YmkxbHRhcjJzMXlkeHVrZjE4anZzOWt2MmtsZ2JmdTU2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Data Science Animation" width="60%">
 </p>
 
 ---
@@ -34,8 +32,7 @@ I am a Software Engineer with a strong background in problem-solving, now fully 
 
 ### 📫 How to reach me
 You can send me a message on my social accounts! 
-- [LinkedIn Profile Link]
-- [GitHub Profile Link]
+
 
 ---
 
