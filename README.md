@@ -17,11 +17,9 @@ I am a Software Engineer with a strong background in problem-solving, now fully 
 ---
 
 ### 🚀 Featured Projects
-*(Updating soon with my latest Data Science projects!)*
 
-* **[Project 1]** - *[Short description of the problem solved and tools used]*
-* **[Project 2]** - *[Short description of the problem solved and tools used]*
-
+* **[Aviation Crisis Management Simulation](https://github.com/somia-moslhy/Aviation_Crisis_Management_Simulation)** - *Built an interactive Business Intelligence (BI) dashboard to analyze the financial and operational impacts of flight cancellations and weather delays across US airports. (Tools: Python, Streamlit, Pandas, Plotly, Geopy)*
+* **[Privilege vs. Success in Egypt Startups](https://github.com/somia-moslhy/Privilege-vs-Success-Egypt-Startups)** - *Conducted Exploratory Data Analysis (EDA) to investigate the correlation between founder privilege and the success rates of startups within the Egyptian market. (Tools: Python, Pandas, Data Visualization)*
 ---
 
 ### 🌱 Currently Exploring
